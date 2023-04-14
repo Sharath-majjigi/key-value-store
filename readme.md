@@ -1,5 +1,4 @@
-# A simple in memory key value datastore that performs operations on it based on certain
-# commands and uses REST API for communication.
+# A simple in memory key value datastore that performs operations on it based on certain commands and uses REST API for communication.
 
 ## Transport
 - It reads commands via HTTP REST API.
